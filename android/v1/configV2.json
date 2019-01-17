@@ -1,8 +1,8 @@
 {
   "ak":"-265187c4d4b0",
-  "s": "BUSY",
-  "l": "BUSY",
-  "n": "BUSY",
+  "s": "OK",
+  "l": "OK",
+  "n": "OK",
   "b": "https://s3.us-east-2.amazonaws.com/pascolan-app",
   "br":"us-east-2",
   "v":"1.54",
