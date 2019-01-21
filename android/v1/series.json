@@ -1,0 +1,37 @@
+[
+	{
+		"n" : "डेली न्यूज़ ",
+		"new" : true,
+		"i" : 40000,
+		"iU" : "https://images.indianexpress.com/2019/01/modi-759-18.jpg?w=565&h=320"
+	},
+	{
+		"n" : "कहानियाँ",
+		"new" : false,
+		"i" : 40001,
+		"iU" : "https://rukminim1.flixcart.com/image/832/832/jg15aq80/book/0/2/7/moral-stories-for-kids-moral-stories-hindi-aalsi-gadha-original-imaf4d7pfz7gyfdb.jpeg?q=10"
+	},
+	{
+		"n" : "राशिफल",
+		"new" : true,
+		"i" : 40004,
+		"iU" : "https://resize.khabarindiatv.com/resize/newbucket/715_-/2018/12/horscope-1545972155.jpg"
+	},
+	{
+		"n" : "जोक्स",
+		"new" : false,
+		"i" : 40002,
+		"iU" : "https://www.clipartmax.com/png/middle/186-1863029_de-emojis-logo-4-by-anthony-funny-emoji-png.png"
+	},
+	{
+		"n" : "शायरी",
+		"new" : false,
+		"i" : 40003,
+		"iU" : "http://hindi-shayari.in/image-data/friends-forever-hindi-dosti-shayari.jpg"
+	}
+	
+
+
+
+
+]
