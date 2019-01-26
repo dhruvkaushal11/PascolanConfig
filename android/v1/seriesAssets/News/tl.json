@@ -1,0 +1,39 @@
+{
+
+	"aU" : "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
+	"n" : "News",
+	"u" : "",
+	"arr" : [
+		{
+			
+			"iU" : "1.png",
+			"t" : 4500
+
+		},
+		{
+			
+			"iU" : "2.png",
+			"t" : 6500
+
+		},
+		{
+			
+			"iU" : "3.png",
+			"t" : 6500
+
+		},
+		{
+			
+			"iU" : "4.png",
+			"t" : 6500
+
+		},
+		{
+			
+			"iU" : "1.png",
+			"t" : 7500
+
+		}
+	]
+
+}
