@@ -27,7 +27,7 @@
 "dn": false,
 "bl": "13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
 "a": "5c18faed81352|srai27.1995",
-"tr": "5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
+"tr": "13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
 "ve": "5c08ef6527e3b",
 "sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
 "si": "https://princetripathi.com/",
@@ -38,57 +38,57 @@
 {
 "i": 0,
 "n": "मेरी सरकार",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/government-buildings.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/government-buildings.png"
 },
 {
 "i": 2,
 "n": "पॉलिटिक्स",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/politician.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/politician.png"
 },
 {
 "i": 3,
 "n": "टेक्नोलॉजी",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/smartphone.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/smartphone.png"
 },
 {
 "i": 4,
 "n": "मनोरंजन",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/movie.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/movie.png"
 },
 {
 "i": 5,
 "n": "खेल कूद",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/cricket.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/cricket.png"
 },
 {
 "i": 6,
 "n": "प्यार / संबंध",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/hands.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/hands.png"
 },
 {
 "i": 7,
 "n": "पढ़ाई लिखाई",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/education.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/education.png"
 },
 {
 "i": 8,
 "n": "खाना खज़ाना",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/salad.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/salad.png"
 },
 {
 "i": 9,
 "n": "लाइफस्टाइल",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/sleep.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/sleep.png"
 },
 {
 "i": 10,
 "n": "बैंक और वित्तीय",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/money.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/money.png"
 },
 {
 "i": 11,
 "n": "कुछ अलग",
-"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/dice.png"
+"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/dice.png"
 }
 ]
 }
