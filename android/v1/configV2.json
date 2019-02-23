@@ -1,97 +1,118 @@
-{
-"ak": "-265187c4d4b0",
-"av": 60,
-"up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है! 50000 नए जवाब भी डाले गए है!",
-"s": "OK",
-"l": "OK",
-"n": "OK",
-"b": "https://s3.us-east-2.amazonaws.com/pascolan-app",
-"cU": "https://d3972zdc1g7j5a.cloudfront.net",
-"br": "us-east-2",
-"v": "1.54",
-"lb": "",
-"tu": "https://www.pascolan.com/app/Terms.html",
-"cp": "85369c61-9116-423c-bd60",
-"fu": "https://pascolan.com/app/version1.0/getFeeds17Hindi5.php",
-"nq": "https://pascolan.com/app/version1.0/newQuestions.php",
-"KEY_PAYOUT_TEXT": "दोस्तों आपके पैसे 4 घंटे तक आपके PAYTM अकाउंट में आ जाएंगे ",
-"KEY_PAYOUT_ILLUS": "1",
-"ADC": "4",
-"trd": "",
-"trt": "",
-"trI": "",
-"ps": "आप सभी दोस्तों को Pascolan की तरफ़ से हैप्पी वैलेंटाइन्स डे",
-"psi": "Happy Valentine Day ❤️",
-"psiU": "https://images.indianexpress.com/2016/02/pakistan-v-day759.jpg",
-"df": false,
-"dn": false,
-"bl": "13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
-"a": "5c18faed81352|srai27.1995",
-"tr": "13mhd62dnjs1blz55|13mhd66jtjs1z9jff|13mhd62rxjs1ivs12|13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
-"ve": "13mhd6acwjs5reibo|13mhd68vijs4g3z4j|13mhd68tejs4dm3pz|13mhd68wojs292wtu|5c08ef6527e3b",
-"sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
-"si": "https://princetripathi.com",
-"asi": "http://138.197.224.233",
-"skbe": false,
-"senb": true,
-"feedPQ": 140,
-"profiSQ": 200,
-"locSubscribe": true,
-"cat": [
-{
-"i": 0,
-"n": "मेरी सरकार",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/government-buildings.png"
-},
-{
-"i": 2,
-"n": "पॉलिटिक्स",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/politician.png"
-},
-{
-"i": 3,
-"n": "टेक्नोलॉजी",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/smartphone.png"
-},
-{
-"i": 4,
-"n": "मनोरंजन",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/movie.png"
-},
-{
-"i": 5,
-"n": "खेल कूद",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/cricket.png"
-},
-{
-"i": 6,
-"n": "प्यार / संबंध",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/hands.png"
-},
-{
-"i": 7,
-"n": "पढ़ाई लिखाई",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/education.png"
-},
-{
-"i": 8,
-"n": "खाना खज़ाना",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/salad.png"
-},
-{
-"i": 9,
-"n": "लाइफस्टाइल",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/sleep.png"
-},
-{
-"i": 10,
-"n": "बैंक और वित्तीय",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/money.png"
-},
-{
-"i": 11,
-"n": "कुछ अलग",
-"p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/dice.png"
-}
-]
-}
+  {
+  "ak": "-265187c4d4b0",
+  "av": 60,
+  "up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है! 50000 नए जवाब भी डाले गए है!",
+  "s": "OK",
+  "l": "OK",
+  "n": "OK",
+  "b": "https://s3.us-east-2.amazonaws.com/pascolan-app",
+  "cU": "https://d3972zdc1g7j5a.cloudfront.net",
+  "br": "us-east-2",
+  "v": "1.54",
+  "lb": "",
+  "tu": "https://www.pascolan.com/app/Terms.html",
+  "cp": "85369c61-9116-423c-bd60",
+  "fu": "https://pascolan.com/app/version1.0/getFeeds17Hindi5.php",
+  "nq": "https://pascolan.com/app/version1.0/newQuestions.php",
+  "KEY_PAYOUT_TEXT": "दोस्तों आपके पैसे 4 घंटे तक आपके PAYTM अकाउंट में आ जाएंगे ",
+  "KEY_PAYOUT_ILLUS": "1",
+  "ADC": "4",
+  "trd": "",
+  "trt": "",
+  "trI": "",
+  "ps": "आप सभी दोस्तों को Pascolan की तरफ़ से हैप्पी वैलेंटाइन्स डे",
+  "psi": "Happy Valentine Day ❤️",
+  "psiU": "https://images.indianexpress.com/2016/02/pakistan-v-day759.jpg",
+  "df": false,
+  "dn": false,
+  "bl": "13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
+  "a": "5c18faed81352|srai27.1995",
+  "tr": "13mhd62dnjs1blz55|13mhd66jtjs1z9jff|13mhd62rxjs1ivs12|13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
+  "ve": "13mhd6acwjs5reibo|13mhd68vijs4g3z4j|13mhd68tejs4dm3pz|13mhd68wojs292wtu|5c08ef6527e3b",
+  "sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
+  "si": "https://princetripathi.com",
+  "asi": "http://138.197.224.233",
+  "skbe": false,
+  "senb": true,
+  "feedPQ": 140,
+  "profiSQ": 200,
+  "locSubscribe": true,
+  "compEnable": false,
+  "compText": "Pascolan में 25-40 February को Speaking Competition है! \n<b>टॉप स्पीकर को 4000 का इनाम!</b>",
+  "compUrl": "https://pascolan.com",
+  "sF":"Pascolan ऐप पर मेरे जवाब को सुनें और Like/Share करें! Link: %s  इस ऐप में आप भारत के लोगों के जवाब सुन सकते हैं और अपना जवाब देकर एक्सपर्ट भी बन सकते हैं! इस ऐप पर स्पीकिंग कम्पटीशन भी चल रहा है! जितने वाले को 5000 तक का इनाम मिलेगा ",
+  "cat": [
+  {
+  "i": 0,
+  "d":"",
+  "n": "मेरी सरकार",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/government-buildings.png"
+  },
+  {
+  "i": 2,
+  "d":"",
+  "n": "पॉलिटिक्स",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/politician.png"
+  },
+  {
+  "i": 3,
+  "d":"",
+  "n": "टेक्नोलॉजी",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/smartphone.png"
+  },
+  {
+  "i": 4,
+  "n": "मनोरंजन",
+  "d":"",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/movie.png"
+  },
+  {
+  "i": 5,
+  "n": "खेल कूद",
+  "d":"",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/cricket.png"
+  },
+  {
+  "i": 6,
+  "d":"",
+  "n": "प्यार / संबंध",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/hands.png"
+  },
+  {
+    "i": 12,
+    "d":"",
+    "n": "इतिहास",
+    "p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/history.png"
+  },
+  {
+  "i": 7,
+  "d":"",
+  "n": "पढ़ाई लिखाई",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/education.png"
+  },
+  {
+  "i": 8,
+  "d":"",
+  "n": "खाना खज़ाना",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/salad.png"
+  },
+  {
+  "i": 9,
+  "d":"",
+  "n": "लाइफस्टाइल",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/sleep.png"
+  },
+  {
+  "i": 10,
+  "d":"",
+  "n": "बैंक और वित्तीय",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/money.png"
+  },
+  {
+  "i": 11,
+  "d":"",
+  "n": "कुछ अलग",
+  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/dice.png"
+  }
+  ]
+  }
