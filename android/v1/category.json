@@ -1,0 +1,77 @@
+[
+{
+"i": 0,
+"n": "मेरी सरकार",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/government-buildings.png"
+},
+{
+"i": 2,
+"n": "पॉलिटिक्स",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/politician.png"
+},
+{
+"i": 16,
+"n": "अंतर्राष्ट्रीय सबंध",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/india.png"
+},
+{
+"i": 3,
+"n": "टेक्नोलॉजी",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/smartphone.png"
+},
+{
+"i": 12,
+"n": "इतिहास",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/history.png"
+},
+{
+"i": 4,
+"n": "मनोरंजन",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/movie.png"
+},
+{
+"i": 5,
+"n": "खेल कूद",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/cricket.png"
+},
+{
+"i": 6,
+"n": "प्यार / संबंध",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/hands.png"
+},
+{
+"i": 7,
+"n": "पढ़ाई लिखाई",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/education.png"
+},
+{
+"i": 8,
+"n": "खाना खज़ाना",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/salad.png"
+},
+{
+"i": 9,
+"n": "लाइफस्टाइल",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/sleep.png"
+},
+{
+"i": 10,
+"n": "बैंक और वित्तीय",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/money.png"
+},
+{
+"i": 13,
+"n": "UPSC",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/upsc.png"
+},
+{
+"i": 15,
+"n": "धर्म",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/yagna.png"
+},
+{
+"i": 11,
+"n": "कुछ अलग",
+"p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/dice.png"
+}
+]
