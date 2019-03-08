@@ -1,7 +1,7 @@
   {
   "ak": "-265187c4d4b0",
-  "av": 84,
-  "up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है! 50000 नए जवाब भी डाले गए है!",
+  "av": 86,
+  "up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है हमने, Cashout करने का तरीका भी अच्छा कर दिया है ",
   "s": "OK",
   "l": "OK",
   "n": "OK",
@@ -20,10 +20,12 @@
   "KEY_PAYOUT_ILLUS": "1",
   "ADC": "4",
   "CC": 50,
-  "CR": 100,
   "CCM": 50,
+  "CR": 100,
   "CRM": 100,
-  "contact": "1. Pascolan को आपकी जवाब से कमाई हुई पेमेंट एक दिन के अंदर भेज देगा अगर आपको 1 दिन के अंदर पेमेंट नहीं मिलती तो pascolancompany@gmail.com पर कांटेक्ट करें ",
+  "contact": "",
+  "contactContent": "सुचना: Pascolan आपकी कमाई 2 दिन के अंदर भेज देगा ",
+  "contactReferrel": "Pascolan आपकी कमाई 4 दिन के अंदर भेज देगा ",
   "trd": "",
   "trt": "",
   "trI": "",
@@ -48,6 +50,7 @@
   "profiSQ": 200,
   "locSubscribe": true,
   "compEnable": false,
+  "enableClFeed": false,
   "compText": "Pascolan में 25-40 February को Speaking Competition है! \n<b>टॉप स्पीकर को 4000 का इनाम!</b>",
   "compUrl": "https://pascolan.com",
   "sF":"Pascolan ऐप पर मेरा ऑडियो जवाब सुनो और Like /Share करना Link: %s , इस जवाब को आगे शेयर ज़रूर करना! इस ऐप से आप जवाब देकर पॉपुलर बन सकते है और पैसा भी कमा सकते हैं ",
@@ -56,91 +59,91 @@
   "i": 0,
   "d":"",
   "n": "मेरी सरकार",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/government-buildings.png"
+  "p": "https://smedia2.intoday.in/aajtak/images/stories/122015/parlia_650_123115091451.jpg"
   },
   {
   "i": 2,
   "d":"",
   "n": "पॉलिटिक्स",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/politician.png"
+  "p": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/PM_Modi_2015.jpg/450px-PM_Modi_2015.jpg"
   },
   {
   "i": 3,
   "d":"",
   "n": "टेक्नोलॉजी",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/smartphone.png"
+  "p": "https://i.gadgets360cdn.com/large/redmi_note_7_small_1551340885113.jpg"
   },
   {
   "i": 4,
   "n": "मनोरंजन",
   "d":"",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/movie.png"
+  "p": "https://media2.mensxp.com/media/content/2018/Nov/the-cast-of-upcoming-netflix-original-series-bahubali-before-the-beginning-has-been-announced-1400x653-1541742528_1100x513.jpg"
   },
   {
   "i": 5,
   "n": "खेल कूद",
   "d":"",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/cricket.png"
+  "p": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/02/24/Pictures/new-zealand-india-cricket_a0b258e4-383d-11e9-9527-26b2d5de00dc.jpg"
   },
   {
   "i": 6,
   "d":"",
   "n": "प्यार / संबंध",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/hands.png"
+  "p": "https://i.ytimg.com/vi/CBEH0fY4eJ8/maxresdefault.jpg"
   },
   {
     "i": 12,
     "d":"",
     "n": "इतिहास",
-    "p": "https://s3.us-east-2.amazonaws.com/pascolan-app/uploads/quesCatAsssets/history.png"
+    "p": "https://images.thrillophilia.com/image/upload/s--gO2-3ksw--/c_fill,f_auto,fl_strip_profile,h_450,q_auto,w_400/v1/images/photos/000/013/184/original/qiv.jpg.jpg"
   },
   {
   "i": 7,
   "d":"",
   "n": "पढ़ाई लिखाई",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/education.png"
+  "p": "http://static.financialexpress.com/m-images/M_Id_463508_India_Education.jpg"
   },
   {
   "i": 8,
   "d":"",
   "n": "खाना खज़ाना",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/salad.png"
+  "p": "https://www.whiskaffair.com/wp-content/uploads/2013/07/Rabdi-4-500x500.jpg"
   },
   {
   "i": 9,
   "d":"",
   "n": "लाइफस्टाइल",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/sleep.png"
+  "p": "https://blog.holidaylettings.co.uk/wp-content/uploads/2015/04/lifestyle.jpg"
   },
   {
   "i": 10,
   "d":"",
   "n": "बैंक और वित्तीय",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/money.png"
+  "p": "https://images.livemint.com/r/LiveMint/Period1/2011/12/26/Photos/40b260fc-16e9-48f7-91dc-9aa9d25e9763.jpg"
   },
   {
   "i": 11,
   "d":"",
   "n": "कुछ अलग",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/dice.png"
+  "p": "https://cdn.pixabay.com/photo/2015/07/22/11/22/rubik-855160_1280.png"
   },
   {
   "i": 16,
   "d":"",
   "n": "अंतर्राष्ट्रीय सबंध",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/india.png"
+  "p": "https://fqzhang.files.wordpress.com/2015/07/america-and-the-world.jpg"
   },
   {
   "i": 15,
   "d":"",
   "n": "धर्म",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/yagna.png"
+  "p": "https://cdn.britannica.com/s:500x350/06/162706-004-25FF8822.jpg"
   },
   {
   "i": 13,
   "d":"",
   "n": "UPSC",
-  "p": "https://d3972zdc1g7j5a.cloudfront.net/uploads/quesCatAsssets/upsc.png"
+  "p": "https://www.thebetterindia.com/wp-content/uploads/2017/07/India_flag_emblem.jpg"
   }
   ]
   }
