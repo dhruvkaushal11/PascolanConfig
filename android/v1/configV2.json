@@ -1,149 +1,209 @@
+{
+"a": "5c18faed81352|srai27.1995",
+"ak": "-265187c4d4b0",
+"asi": "http://138.197.224.233:8080",
+"av": 88,
+"ADC": "4",
+"up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है हमने, Cashout करने का तरीका भी अच्छा कर दिया है ",
+"s": "OK",
+"l": "OK",
+"n": "OK",
+"bs": "हम कुछ Server ka काम कर रहे हैं! वापिस लौटेंगे! एक बार हम वापस आ जाएंगे हम आपको सूचित करेंगे :)",
+"b": "https://s3.us-east-2.amazonaws.com/pascolan-app",
+"cU": "https://d3972zdc1g7j5a.cloudfront.net",
+"br": "us-east-2",
+"eRec": true,
+"v": "1.54",
+"lb": "",
+"tu": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/terms.html",
+"aupu": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/about_us.html",
+"twp": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/topWriter.html",
+"cp": "85369c61-9116-423c-bd60",
+"fu": "",
+"nq": "",
+"KEY_PAYOUT_TEXT": "दोस्तों आपके पैसे 4 घंटे तक आपके PAYTM अकाउंट में आ जाएंगे ",
+"KEY_PAYOUT_ILLUS": "1",
+"CC": 50,
+"CCM": 50,
+"CR": 50,
+"CRM": 50,
+"contact": "",
+"contactContent": "सुचना: Pascolan आपकी कमाई 2 दिन के अंदर भेज देगा ",
+"contactReferrel": "Pascolan आपकी कमाई 4 दिन के अंदर भेज देगा ",
+"trd": "",
+"trt": "",
+"trI": "",
+"eRa": false,
+"eRaAll": false,
+"eFp": false,
+"ps": "आप सभी दोस्तों को Pascolan की तरफ़ से हैप्पी होली",
+"psi": "Happy Holi",
+"psiU": "https://png.pngtree.com/element_our/sm/20180226/sm_5a9408b26b537.png",
+"df": false,
+"dn": false,
+"bl": "13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
+"tr": "13mhd63t3js1ktf13|13mhd6faijsue318u|13mhd6g0bjsugvzmq|13mhd6foojs90r26t|13mhd6sxjs16n6a9|13mhd62dnjs18o2m9|13mhd629ojs17sg3i|13mhd66jtjs201ne2|13mhd62dnjs18x5mn|13mhd62dnjs1blz55|13mhd66jtjs1z9jff|13mhd62rxjs1ivs12|13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
+"ve": "13mhd6acwjs5reibo|13mhd68vijs4g3z4j|13mhd68tejs4dm3pz|13mhd68wojs292wtu|5c08ef6527e3b",
+"sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
+"si": "https://princetripathi.com",
+"skbe": false,
+"senb": true,
+"feedPQ": 140,
+"profiSQ": 200,
+"locSubscribe": true,
+"compEnable": false,
+"enableClFeed": false,
+"enableClFeedNQ": false,
+"enableSD": true,
+"calAHome": true,
+"compText": "Pascolan में 25-40 February को Speaking Competition है! \n<b>टॉप स्पीकर को 4000 का इनाम!</b>",
+"compUrl": "https://pascolan.com",
+"sF": "Pascolan ऐप पर मेरा ऑडियो जवाब सुनो और Like /Share करना Link: %s , इस जवाब को आगे शेयर ज़रूर करना! इस ऐप से आप जवाब देकर पॉपुलर बन सकते है और पैसा भी कमा सकते हैं ",
+"lan":[
+
   {
-  "ak": "-265187c4d4b0",
-  "av": 86,
-  "up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है हमने, Cashout करने का तरीका भी अच्छा कर दिया है ",
-  "s": "OK",
-  "l": "OK",
-  "n": "OK",
-  "bs": "हम कुछ Server ka काम कर रहे हैं! वापिस लौटेंगे! एक बार हम वापस आ जाएंगे हम आपको सूचित करेंगे :)",
-  "b": "https://s3.us-east-2.amazonaws.com/pascolan-app",
-  "cU": "https://d3972zdc1g7j5a.cloudfront.net",
-  "br": "us-east-2",
-  "eRec": true,
-  "v": "1.54",
-  "lb": "",
-  "tu": "https://www.pascolan.com/app/Terms.html",
-  "cp": "85369c61-9116-423c-bd60",
-  "fu": "",
-  "nq": "",
-  "KEY_PAYOUT_TEXT": "दोस्तों आपके पैसे 4 घंटे तक आपके PAYTM अकाउंट में आ जाएंगे ",
-  "KEY_PAYOUT_ILLUS": "1",
-  "ADC": "4",
-  "CC": 50,
-  "CCM": 50,
-  "CR": 100,
-  "CRM": 100,
-  "contact": "",
-  "contactContent": "सुचना: Pascolan आपकी कमाई 2 दिन के अंदर भेज देगा ",
-  "contactReferrel": "Pascolan आपकी कमाई 4 दिन के अंदर भेज देगा ",
-  "trd": "",
-  "trt": "",
-  "trI": "",
-  "eFp": false,
-  "eRa": false,
-  "eRaAll": false,
-  "ps": "आप सभी दोस्तों को Pascolan की तरफ़ से हैप्पी वैलेंटाइन्स डे",
-  "psi": "Happy Valentine Day ❤️",
-  "psiU": "https://images.indianexpress.com/2016/02/pakistan-v-day759.jpg",
-  "df": false,
-  "dn": false,
-  "bl": "13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
-  "a": "5c18faed81352|srai27.1995",
-  "tr": "13mhd6foojs90r26t|13mhd6sxjs16n6a9|13mhd62dnjs18o2m9|13mhd629ojs17sg3i|13mhd66jtjs201ne2|13mhd62dnjs18x5mn|13mhd62dnjs1blz55|13mhd66jtjs1z9jff|13mhd62rxjs1ivs12|13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
-  "ve": "13mhd6acwjs5reibo|13mhd68vijs4g3z4j|13mhd68tejs4dm3pz|13mhd68wojs292wtu|5c08ef6527e3b",
-  "sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
-  "si": "https://princetripathi.com",
-  "asi": "http://138.197.224.233:8080",
-  "skbe": false,
-  "senb": true,
-  "feedPQ": 140,
-  "profiSQ": 200,
-  "locSubscribe": true,
-  "compEnable": false,
-  "enableClFeed": false,
-  "compText": "Pascolan में 25-40 February को Speaking Competition है! \n<b>टॉप स्पीकर को 4000 का इनाम!</b>",
-  "compUrl": "https://pascolan.com",
-  "sF":"Pascolan ऐप पर मेरा ऑडियो जवाब सुनो और Like /Share करना Link: %s , इस जवाब को आगे शेयर ज़रूर करना! इस ऐप से आप जवाब देकर पॉपुलर बन सकते है और पैसा भी कमा सकते हैं ",
-  "cat": [
-  {
-  "i": 0,
-  "d":"",
-  "n": "मेरी सरकार",
-  "p": "https://smedia2.intoday.in/aajtak/images/stories/122015/parlia_650_123115091451.jpg"
+    "n":"हिंदी",
+    "i" : 0,
+    "c" : "hi"
+
   },
   {
-  "i": 2,
-  "d":"",
-  "n": "पॉलिटिक्स",
-  "p": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/PM_Modi_2015.jpg/450px-PM_Modi_2015.jpg"
+    "n":"मराठी",
+    "i" : 1,
+    "c" : "ma"
   },
   {
-  "i": 3,
-  "d":"",
-  "n": "टेक्नोलॉजी",
-  "p": "https://i.gadgets360cdn.com/large/redmi_note_7_small_1551340885113.jpg"
+    "n":"తెలుగు",
+    "i" : 2,
+    "c" : "te"
   },
   {
-  "i": 4,
-  "n": "मनोरंजन",
-  "d":"",
-  "p": "https://media2.mensxp.com/media/content/2018/Nov/the-cast-of-upcoming-netflix-original-series-bahubali-before-the-beginning-has-been-announced-1400x653-1541742528_1100x513.jpg"
+    "n":"ગુજરાતી",
+    "i" : 3,
+    "c" : "gu"
   },
   {
-  "i": 5,
-  "n": "खेल कूद",
-  "d":"",
-  "p": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/02/24/Pictures/new-zealand-india-cricket_a0b258e4-383d-11e9-9527-26b2d5de00dc.jpg"
+    "n":"ಕನ್ನಡ",
+    "i" : 4,
+    "c" : "ka"
   },
   {
-  "i": 6,
-  "d":"",
-  "n": "प्यार / संबंध",
-  "p": "https://i.ytimg.com/vi/CBEH0fY4eJ8/maxresdefault.jpg"
+    "n":"ਪੰਜਾਬੀ",
+    "i" : 5,
+    "c" : "pa"
   },
   {
-    "i": 12,
-    "d":"",
-    "n": "इतिहास",
-    "p": "https://images.thrillophilia.com/image/upload/s--gO2-3ksw--/c_fill,f_auto,fl_strip_profile,h_450,q_auto,w_400/v1/images/photos/000/013/184/original/qiv.jpg.jpg"
+    "n":"বাঙালি",
+    "i" : 6,
+    "c" : "be"
   },
   {
-  "i": 7,
-  "d":"",
-  "n": "पढ़ाई लिखाई",
-  "p": "http://static.financialexpress.com/m-images/M_Id_463508_India_Education.jpg"
+    "n":"اردو زبان",
+    "i" : 7,
+    "c" : "ur"
   },
   {
-  "i": 8,
-  "d":"",
-  "n": "खाना खज़ाना",
-  "p": "https://www.whiskaffair.com/wp-content/uploads/2013/07/Rabdi-4-500x500.jpg"
+    "n":"தமிழ்",
+    "i" : 8,
+    "c" : "ta"
   },
+
   {
-  "i": 9,
-  "d":"",
-  "n": "लाइफस्टाइल",
-  "p": "https://blog.holidaylettings.co.uk/wp-content/uploads/2015/04/lifestyle.jpg"
-  },
-  {
-  "i": 10,
-  "d":"",
-  "n": "बैंक और वित्तीय",
-  "p": "https://images.livemint.com/r/LiveMint/Period1/2011/12/26/Photos/40b260fc-16e9-48f7-91dc-9aa9d25e9763.jpg"
-  },
-  {
-  "i": 11,
-  "d":"",
-  "n": "कुछ अलग",
-  "p": "https://cdn.pixabay.com/photo/2015/07/22/11/22/rubik-855160_1280.png"
-  },
-  {
-  "i": 16,
-  "d":"",
-  "n": "अंतर्राष्ट्रीय सबंध",
-  "p": "https://fqzhang.files.wordpress.com/2015/07/america-and-the-world.jpg"
-  },
-  {
-  "i": 15,
-  "d":"",
-  "n": "धर्म",
-  "p": "https://cdn.britannica.com/s:500x350/06/162706-004-25FF8822.jpg"
-  },
-  {
-  "i": 13,
-  "d":"",
-  "n": "UPSC",
-  "p": "https://www.thebetterindia.com/wp-content/uploads/2017/07/India_flag_emblem.jpg"
+    "n":"മലയാളം",
+    "i" : 9,
+    "c":"mal"
   }
-  ]
-  }
+], 
+"cat": [
+{
+"i": 0,
+"d": "",
+"n": "मेरी सरकार",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
+},
+{
+"i": 2,
+"d": "",
+"n": "पॉलिटिक्स",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
+},
+{
+"i": 3,
+"d": "",
+"n": "टेक्नोलॉजी",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
+},
+{
+"i": 4,
+"n": "मनोरंजन",
+"d": "",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
+},
+{
+"i": 5,
+"n": "खेल कूद",
+"d": "",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
+},
+{
+"i": 6,
+"d": "",
+"n": "प्यार / संबंध",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
+},
+{
+"i": 12,
+"d": "",
+"n": "इतिहास",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
+},
+{
+"i": 7,
+"d": "",
+"n": "पढ़ाई लिखाई",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
+},
+{
+"i": 8,
+"d": "",
+"n": "खाना खज़ाना",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
+},
+{
+"i": 9,
+"d": "",
+"n": "लाइफस्टाइल",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
+},
+{
+"i": 10,
+"d": "",
+"n": "बैंक और वित्तीय",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
+},
+{
+"i": 11,
+"d": "",
+"n": "कुछ अलग",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
+},
+{
+"i": 16,
+"d": "",
+"n": "अंतर्राष्ट्रीय सबंध",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
+},
+{
+"i": 15,
+"d": "",
+"n": "धर्म",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
+},
+{
+"i": 13,
+"d": "",
+"n": "UPSC",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
+}
+]
+}
