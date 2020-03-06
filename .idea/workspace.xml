@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c9c7107-84b2-4146-befb-bfafc1459d45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/android/v1/category.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/v1/category.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/v1/configV2.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/v1/configV2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/v1/tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/v1/tl.json" afterDir="false" />
-    </list>
+    <list default="true" id="3c9c7107-84b2-4146-befb-bfafc1459d45" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,6 +220,16 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="audio" type="462c0819:PsiDirectoryNode" />
               <item name="onboarding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PascolanConfig" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="audio" type="462c0819:PsiDirectoryNode" />
+              <item name="onboarding" type="462c0819:PsiDirectoryNode" />
+              <item name="dhruv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
