@@ -1,209 +1,253 @@
 {
-"a": "5c18faed81352|srai27.1995",
-"ak": "-265187c4d4b0",
-"asi": "http://138.197.224.233:8080",
-"av": 88,
-"ADC": "4",
-"up": "इसको अपडेट करें 😀 दोस्तों इस ऐप को हमने और फ़ास्ट बना दिया है हमने, Cashout करने का तरीका भी अच्छा कर दिया है ",
-"s": "OK",
-"l": "OK",
-"n": "OK",
-"bs": "हम कुछ Server ka काम कर रहे हैं! वापिस लौटेंगे! एक बार हम वापस आ जाएंगे हम आपको सूचित करेंगे :)",
-"b": "https://s3.us-east-2.amazonaws.com/pascolan-app",
-"cU": "https://d3972zdc1g7j5a.cloudfront.net",
-"br": "us-east-2",
-"eRec": true,
-"v": "1.54",
-"lb": "",
-"tu": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/terms.html",
-"aupu": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/about_us.html",
-"twp": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/topWriter.html",
-"cp": "85369c61-9116-423c-bd60",
-"fu": "",
-"nq": "",
-"KEY_PAYOUT_TEXT": "दोस्तों आपके पैसे 4 घंटे तक आपके PAYTM अकाउंट में आ जाएंगे ",
-"KEY_PAYOUT_ILLUS": "1",
-"CC": 50,
-"CCM": 50,
-"CR": 50,
-"CRM": 50,
-"contact": "",
-"contactContent": "सुचना: Pascolan आपकी कमाई 2 दिन के अंदर भेज देगा ",
-"contactReferrel": "Pascolan आपकी कमाई 4 दिन के अंदर भेज देगा ",
-"trd": "",
-"trt": "",
-"trI": "",
-"eRa": false,
-"eRaAll": false,
-"eFp": false,
-"ps": "आप सभी दोस्तों को Pascolan की तरफ़ से हैप्पी होली",
-"psi": "Happy Holi",
-"psiU": "https://png.pngtree.com/element_our/sm/20180226/sm_5a9408b26b537.png",
-"df": false,
-"dn": false,
-"bl": "13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
-"tr": "13mhd63t3js1ktf13|13mhd6faijsue318u|13mhd6g0bjsugvzmq|13mhd6foojs90r26t|13mhd6sxjs16n6a9|13mhd62dnjs18o2m9|13mhd629ojs17sg3i|13mhd66jtjs201ne2|13mhd62dnjs18x5mn|13mhd62dnjs1blz55|13mhd66jtjs1z9jff|13mhd62rxjs1ivs12|13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
-"ve": "13mhd6acwjs5reibo|13mhd68vijs4g3z4j|13mhd68tejs4dm3pz|13mhd68wojs292wtu|5c08ef6527e3b",
-"sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
-"si": "https://princetripathi.com",
-"skbe": false,
-"senb": true,
-"feedPQ": 140,
-"profiSQ": 200,
-"locSubscribe": true,
-"compEnable": false,
-"enableClFeed": false,
-"enableClFeedNQ": false,
-"enableSD": true,
-"calAHome": true,
-"compText": "Pascolan में 25-40 February को Speaking Competition है! \n<b>टॉप स्पीकर को 4000 का इनाम!</b>",
-"compUrl": "https://pascolan.com",
-"sF": "Pascolan ऐप पर मेरा ऑडियो जवाब सुनो और Like /Share करना Link: %s , इस जवाब को आगे शेयर ज़रूर करना! इस ऐप से आप जवाब देकर पॉपुलर बन सकते है और पैसा भी कमा सकते हैं ",
-"lan":[
-
-  {
-    "n":"हिंदी",
-    "i" : 0,
-    "c" : "hi"
-
-  },
-  {
-    "n":"मराठी",
-    "i" : 1,
-    "c" : "ma"
-  },
-  {
-    "n":"తెలుగు",
-    "i" : 2,
-    "c" : "te"
-  },
-  {
-    "n":"ગુજરાતી",
-    "i" : 3,
-    "c" : "gu"
-  },
-  {
-    "n":"ಕನ್ನಡ",
-    "i" : 4,
-    "c" : "ka"
-  },
-  {
-    "n":"ਪੰਜਾਬੀ",
-    "i" : 5,
-    "c" : "pa"
-  },
-  {
-    "n":"বাঙালি",
-    "i" : 6,
-    "c" : "be"
-  },
-  {
-    "n":"اردو زبان",
-    "i" : 7,
-    "c" : "ur"
-  },
-  {
-    "n":"தமிழ்",
-    "i" : 8,
-    "c" : "ta"
-  },
-
-  {
-    "n":"മലയാളം",
-    "i" : 9,
-    "c":"mal"
-  }
-], 
-"cat": [
-{
-"i": 0,
-"d": "",
-"n": "मेरी सरकार",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
-},
-{
-"i": 2,
-"d": "",
-"n": "पॉलिटिक्स",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
-},
-{
-"i": 3,
-"d": "",
-"n": "टेक्नोलॉजी",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
-},
-{
-"i": 4,
-"n": "मनोरंजन",
-"d": "",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
-},
-{
-"i": 5,
-"n": "खेल कूद",
-"d": "",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
-},
-{
-"i": 6,
-"d": "",
-"n": "प्यार / संबंध",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
-},
-{
-"i": 12,
-"d": "",
-"n": "इतिहास",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
-},
-{
-"i": 7,
-"d": "",
-"n": "पढ़ाई लिखाई",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
-},
-{
-"i": 8,
-"d": "",
-"n": "खाना खज़ाना",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
-},
-{
-"i": 9,
-"d": "",
-"n": "लाइफस्टाइल",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
-},
-{
-"i": 10,
-"d": "",
-"n": "बैंक और वित्तीय",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
-},
-{
-"i": 11,
-"d": "",
-"n": "कुछ अलग",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
-},
-{
-"i": 16,
-"d": "",
-"n": "अंतर्राष्ट्रीय सबंध",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
-},
-{
-"i": 15,
-"d": "",
-"n": "धर्म",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
-},
-{
-"i": 13,
-"d": "",
-"n": "UPSC",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
-}
-]
+  "a": "1o44vgk6xh742g|1o43o7k6niedxk|1o4j9lk6815r6j|1o4cauk6527jgo|13mhd6f3k5xnosso|5c18faed81352|13mhd65kxk4tll268|13mhd6e4tk4fanpte|13mhd67nnk4cj2i2f|13mhd641ck4jzf05s|13mhd6a9ck4dczwei|13mhd6f4mk3zq2ocr|13mhd6cktk2u8qeem|13mhd6ldek24tkrma|13mhd6i0xk02a7gvj|5c18faed81352|srai27.1995",
+  "ak": "-265187c4d4b0",
+  "asi": "http://3.132.68.57:8080",
+  "si": "https://pascolan.in",
+  "sockSer": "http://3.132.68.57:8080",
+  "compUrl": "https://d51md7wh0hu8b.cloudfront.net/assets/pages/pascolan_competition.html",
+  "av": 151,
+  "minV": 145,
+  "errorV": "[0,-1]",
+  "ADC": "2",
+  "up": "हमने Bolkar ऐप पर आपके अनुभव को और भी बेहतर बनाया है\nअब बोलकर पूछें सवाल और बोलकर अपना ज्ञान साँझा करें।।",
+  "s": "OK",
+  "l": "OK",
+  "n": "OK",
+  "bs": "हम कुछ Server ka काम कर रहे हैं! वापिस लौटेंगे! एक बार हम वापस आ जाएंगे हम आपको सूचित करेंगे :)",
+  "b": "https://s3.us-east-2.amazonaws.com/pascolan-app/",
+  "cU": "https://d3972zdc1g7j5a.cloudfront.net",
+  "br": "us-east-2",
+  "eRec": true,
+  "trueCallLogin": true,
+  "eCRoll": false,
+  "eCRollShare": true,
+  "v": "1.54",
+  "lb": "",
+  "tu": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/terms.html",
+  "aupu": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/about_us.html",
+  "twp": "https://s3.us-east-2.amazonaws.com/pascolan-config/assets/pages/topWriter.html",
+  "cp": "85369c61-9116-423c-bd60",
+  "fu": "",
+  "nq": "",
+  "cid": "c1a0970cacb6488",
+  "KEY_PAYOUT_TEXT": "दोस्तों आपके पैसे 4 घंटे तक आपके PAYTM अकाउंट में आ जाएंगे ",
+  "KEY_PAYOUT_ILLUS": "1",
+  "CC": 50,
+  "CCM": 100,
+  "CR": 50,
+  "CRM": 50,
+  "referAmount": 2,
+  "contact": "",
+  "contactContent": "सुचना: Pascolan आपकी कमाई 2 दिन के अंदर भेज देगा ",
+  "contactReferrel": "Pascolan आपकी कमाई 4 दिन के अंदर भेज देगा ",
+  "trd": "",
+  "trt": "",
+  "trI": "",
+  "did": "bbecdf005fc59de44",
+  "eRa": true,
+  "eRaAll": true,
+  "enableLive": false,
+  "resetFire": true,
+  "pV2": true,
+  "d5c": true,
+  "seaEnable": true,
+  "enableReferPopup": false,
+  "enableStickNoti": true,
+  "randomFeed": true,
+  "eFpFestival": false,
+  "furl": "https://pbs.twimg.com/media/C6yaGROUwAAq81G.jpg",
+  "ps": "<b>Pascolan अब Bolkar (बोलकर) हो गया है</b> <br>बोलकर सवाल पूछें, बोलकर ज़वाब दें<br><br>",
+  "psi": "Bolkar",
+  "eFp": true,
+  "generalCompEnable": true,
+  "psiU": "",
+  "df": false,
+  "dn": false,
+  "bl": "13mhd6jpjz0p7j6d|13mhd6fbmjzdk7ifk|13mhd619ejzsou8b3|13mhd65awjs1ugaqn|13mhd66anjyvdojhs|13mhd6f0djyy77avf|13mhd6hlajyydw6xp|13mhd6208jyrbh6pc|5c0b6df043255|13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
+  "tr": "13mhd6aj4js12x2dw|13mshd6g0bjsujbis9|13mhd6nwljsx9ouf2|13mhd63t3js1ktf13|13mhd6faijsue318u|13mhd6g0bjsugvzmq|13mhd6foojs90r26t|13mhd6sxjs16n6a9|13mhd62dnjs18o2m9|13mhd629ojs17sg3i|13mhd66jtjs201ne2|13mhd62dnjs18x5mn|13mhd62dnjs1blz55|13mhd66jtjs1z9jff|13mhd62rxjs1ivs12|13mhd6exwjrur3soh|5bee73accda38|5c08ef6527e3b|5c0810e82950f|5bee7efe0620d|5bf4d95809a91|5bf57dd28ddaa|5c036f43c1c44|5c02a09bc24e3|5c076f5997e6c|5c0688213c028|5bf7fc2c99905|srai27.1995|tripathiprincejiit62",
+  "ve": "13mhd6acwjs5reibo|13mhd68vijs4g3z4j|13mhd68tejs4dm3pz|13mhd68wojs292wtu|5c08ef6527e3b",
+  "sa": "/uploads/quesCatAsssets/onboard/audio_splas.ogg",
+  "skbe": false,
+  "senb": true,
+  "feedPQ": 140,
+  "profiSQ": 200,
+  "videoH": 600,
+  "videoW": 350,
+  "locSubscribe": true,
+  "compId": 7,
+  "compEnable": true,
+  "enableClFeed": false,
+  "enableClFeedNQ": false,
+  "enableSD": true,
+  "calAHome": false,
+  "lmp": 1,
+  "lkmp": 2,
+  "cmp": 2,
+  "quizAd": 2,
+  "compText": "Pascolan उत्तर प्रतियोगिता #6, 18th December - 31th December, 2019",
+  "ytkey": "AIzaSyBDQFEjsdKV59laOdyzRROs6p8iPUSJatE",
+  "sF": "%s",
+  "lan": [
+    {
+      "n": "हिंदी",
+      "nE": "Hindi",
+      "i": 0,
+      "c": "hi",
+      "cc": "#77C356",
+      "live": true
+    },
+    {
+      "n": "বাঙালি",
+      "nE": "Bengali",
+      "i": 6,
+      "c": "be",
+      "cc": "#F16254",
+      "live": true
+    },
+    {
+      "n": "मराठी",
+      "i": 1,
+      "nE": "Marathi",
+      "c": "ma",
+      "cc": "#6260BB",
+      "live": true
+    },
+    {
+      "n": "தமிழ்",
+      "i": 5,
+      "c": "ta",
+      "nE": "Tamil",
+      "cc": "#6260BB",
+      "live": true
+    },
+    {
+      "n": "తెలుగు",
+      "i": 2,
+      "c": "te",
+      "nE": "Telugu",
+      "cc": "#48ACF0",
+      "live": true
+    },
+    {
+      "n": "ગુજરાતી",
+      "i": 3,
+      "c": "gu",
+      "nE": "Gujarati",
+      "cc": "#F8AC35",
+      "live": false
+    },
+    {
+      "n": "ಕನ್ನಡ",
+      "i": 4,
+      "nE": "Kannada",
+      "c": "ka",
+      "cc": "#6260BB",
+      "live": false
+    }
+  ],
+  "spinVal": [
+    0,
+    1,
+    2,
+    10,
+    50
+  ],
+  "cat": [
+    {
+      "i": 0,
+      "d": "",
+      "n": "मेरी सरकार",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
+    },
+    {
+      "i": 2,
+      "d": "",
+      "n": "भारत की राजनीती",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
+    },
+    {
+      "i": 3,
+      "d": "",
+      "n": "टेक्नोलॉजी",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
+    },
+    {
+      "i": 4,
+      "n": "फिल्में",
+      "d": "",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
+    },
+    {
+      "i": 5,
+      "n": "खेल कूद",
+      "d": "",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
+    },
+    {
+      "i": 6,
+      "d": "",
+      "n": "रिश्ते और संबंध",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
+    },
+    {
+      "i": 12,
+      "d": "",
+      "n": "इतिहास",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
+    },
+    {
+      "i": 7,
+      "d": "",
+      "n": "पढ़ाई लिखाई",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
+    },
+    {
+      "i": 8,
+      "d": "",
+      "n": "खाना खज़ाना",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
+    },
+    {
+      "i": 9,
+      "d": "",
+      "n": "जीवन शैली",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
+    },
+    {
+      "i": 10,
+      "d": "",
+      "n": "बैंक और वित्तीय",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
+    },
+    {
+      "i": 11,
+      "d": "",
+      "n": "कुछ अलग",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
+    },
+    {
+      "i": 16,
+      "d": "",
+      "n": "अंतर्राष्ट्रीय सबंध",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
+    },
+    {
+      "i": 15,
+      "d": "",
+      "n": "धर्म",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
+    },
+    {
+      "i": 13,
+      "d": "",
+      "n": "UPSC",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
+    },
+    {
+      "i": 17,
+      "d": "",
+      "n": "विज्ञान",
+      "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/17.png"
+    }
+  ]
 }

@@ -1,5 +1,10 @@
 [
-
+	{
+		"i": 0,
+		"n": "मेरी सरकार",
+		"a": "my_govt",
+		"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
+	},
 	{
 		"i": 2,
 		"n": "भारत की राजनीती",
@@ -46,6 +51,12 @@
 		"n": "फिल्में",
 		"a": "entertainment",
 		"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
+	},
+	{
+		"i": 975,
+		"n": "क्रिकेट",
+		"a": "cricket",
+		"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/975.png"
 	},
 	{
 		"i": 5,
@@ -117,5 +128,11 @@
 		"n": "कुछ अलग",
 		"a": "other",
 		"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
+	},
+	{
+		"i": 101,
+		"n": "18+",
+		"a": "adult",
+		"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/101.png"
 	}
 ]
