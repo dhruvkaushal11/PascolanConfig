@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c9c7107-84b2-4146-befb-bfafc1459d45" name="Default Changelist" comment="" />
+    <list default="true" id="3c9c7107-84b2-4146-befb-bfafc1459d45" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/v1/configV2.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/v1/configV2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/v1/strings/hi/tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/v1/strings/hi/tl.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,46 +18,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/v1/strings/hi/tl.json">
+        <entry file="file://$PROJECT_DIR$/android/v1/categoryV2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2698">
-              <caret line="142" column="52" selection-start-line="142" selection-start-column="52" selection-end-line="142" selection-end-column="52" />
+            <state relative-caret-position="216">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/android/v1/assets/audio/onboarding/feed/index.m3u8">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/v1/configV2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3287">
-              <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/v1/strings/hi/tl1.json">
+        <entry file="file://$PROJECT_DIR$/android/v1/assets/audio/onboarding/dhruv/index.m3u8">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5339">
-              <caret line="281" column="75" selection-start-line="281" selection-start-column="21" selection-end-line="281" selection-end-column="75" />
+            <state relative-caret-position="360">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/v1/strings/be/tl.json">
+        <entry file="file://$PROJECT_DIR$/android/v1/strings/hi/tl.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4370">
-              <caret line="230" column="42" selection-start-line="230" selection-start-column="42" selection-end-line="230" selection-end-column="42" />
+            <state relative-caret-position="671">
+              <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/v1/assets/corona_fight.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -61,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/v1/strings/ta/tl.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4313">
+            <state relative-caret-position="5448">
               <caret line="227" column="42" selection-start-line="227" selection-start-column="42" selection-end-line="227" selection-end-column="42" />
             </state>
           </provider>
@@ -70,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/v1/strings/ma/tl.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4256">
+            <state relative-caret-position="5376">
               <caret line="224" column="2" selection-start-line="224" selection-start-column="2" selection-end-line="224" selection-end-column="57" />
             </state>
           </provider>
@@ -79,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/v1/strings/te/tl.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3800">
+            <state relative-caret-position="4800">
               <caret line="200" column="13" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="13" />
             </state>
           </provider>
@@ -88,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/v1/tl.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3002">
+            <state relative-caret-position="3792">
               <caret line="158" column="12" selection-start-line="158" selection-start-column="12" selection-end-line="158" selection-end-column="12" />
             </state>
           </provider>
@@ -97,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/v1/series.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="600">
               <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
@@ -107,14 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>CompetitionOnGoing</find>
-      <find>adBanner</find>
-      <find>feed_popup</find>
-      <find>twi</find>
-      <find>comp_result</find>
-      <find>ruleOne</find>
-      <find>countQues</find>
-      <find>countAns</find>
       <find>Pascolan</find>
       <find>result</find>
       <find>compId</find>
@@ -137,6 +133,14 @@
       <find>s</find>
       <find>lifestyle</find>
       <find>2</find>
+      <find>new_</find>
+      <find>ऐप्प</find>
+      <find>view</find>
+      <find>revert</find>
+      <find>ps&quot;</find>
+      <find>जो आगे</find>
+      <find>आगे</find>
+      <find>1o45s0k82x1gcf</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,9 +157,11 @@
         <option value="$PROJECT_DIR$/android/v1/strings/hi/tl1.json" />
         <option value="$PROJECT_DIR$/android/v1/category.json" />
         <option value="$PROJECT_DIR$/android/v1/categoryV2.json" />
-        <option value="$PROJECT_DIR$/android/v1/configV2.json" />
-        <option value="$PROJECT_DIR$/android/v1/strings/hi/tl.json" />
         <option value="$PROJECT_DIR$/android/v1/assets/audio/onboarding/feed/index.m3u8" />
+        <option value="$PROJECT_DIR$/android/v1/assets/audio/onboarding/category/index.m3u8" />
+        <option value="$PROJECT_DIR$/android/v1/assets/corona_fight.html" />
+        <option value="$PROJECT_DIR$/android/v1/strings/hi/tl.json" />
+        <option value="$PROJECT_DIR$/android/v1/configV2.json" />
       </list>
     </option>
   </component>
@@ -178,7 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,22 +242,7 @@
               <item name="PascolanConfig" type="462c0819:PsiDirectoryNode" />
               <item name="android" type="462c0819:PsiDirectoryNode" />
               <item name="v1" type="462c0819:PsiDirectoryNode" />
-              <item name="seriesAssets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PascolanConfig" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PascolanConfig" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-              <item name="be" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
@@ -261,43 +252,27 @@
               <item name="strings" type="462c0819:PsiDirectoryNode" />
               <item name="hi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PascolanConfig" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-              <item name="ma" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PascolanConfig" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PascolanConfig" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-              <item name="ta" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/v1/assets/audio/onboarding/dhruv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/v1/assets" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/v1/assets" />
       <recent name="$PROJECT_DIR$/android/v1/assets/audio/onboarding/dhruv" />
       <recent name="$PROJECT_DIR$/android/v1" />
       <recent name="$PROJECT_DIR$/android/v1/strings/hi" />
       <recent name="$PROJECT_DIR$/android/v1/strings/ta" />
-      <recent name="$PROJECT_DIR$/android/v1/strings/te" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,19 +302,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.37182587" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.37127206" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Resources Explorer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4996957" weight="0.32900432" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3298647" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50030434" side_tool="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -361,27 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/v1/categoryV2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/v1/strings/hi/tl.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2698">
-          <caret line="142" column="52" selection-start-line="142" selection-start-column="52" selection-end-line="142" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/v1/configV2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3287">
-          <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/android/v1/strings/hi/tl1.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5339">
@@ -396,45 +351,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/android/v1/assets/audio/onboarding/feed/index.m3u8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/v1/assets/audio/onboarding/category/index.m3u8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/v1/assets/audio/onboarding/dhruv/index.m3u8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/v1/assets/corona_fight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/android/v1/strings/ta/tl.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4313">
+        <state relative-caret-position="5448">
           <caret line="227" column="42" selection-start-line="227" selection-start-column="42" selection-end-line="227" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/v1/strings/ma/tl.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4256">
+        <state relative-caret-position="5376">
           <caret line="224" column="2" selection-start-line="224" selection-start-column="2" selection-end-line="224" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/v1/strings/te/tl.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3800">
+        <state relative-caret-position="4800">
           <caret line="200" column="13" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/v1/tl.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3002">
+        <state relative-caret-position="3792">
           <caret line="158" column="12" selection-start-line="158" selection-start-column="12" selection-end-line="158" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/v1/series.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="600">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/v1/assets/audio/onboarding/feed/index.m3u8">
+    <entry file="file://$PROJECT_DIR$/android/v1/strings/hi/tl.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="671">
+          <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/v1/categoryV2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/v1/configV2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
